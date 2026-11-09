@@ -46,7 +46,6 @@ Dalam membangun ekosistem proyek ini, berbagai *stack* dan bahasa pemrograman di
 
 ### 📊 Tech Badges
 
-```html
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
@@ -59,7 +58,6 @@ Dalam membangun ekosistem proyek ini, berbagai *stack* dan bahasa pemrograman di
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-```
 
 ---
 
