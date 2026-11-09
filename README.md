@@ -1,68 +1,68 @@
-<h1 align="center">Hi there, I'm Wildan 👋</h1>
+# 🌿 🌊 Selamat Datang di Will Done Project (`willDoneID`)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WildanGX&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-<p align="center">
-  <strong>Fullstack Developer | Automation & Bot Specialist | Sysadmin Enthusiast</strong><br>
-  <em>Building robust infrastructures and interactive bots from Indonesia 🇮🇩</em>
-</p>
+> *"Membangun Pondasi Teknologi Negeri, Berakar dari Nusantara untuk Dunia."*
 
 ---
 
-### 🛠️ About Me
+### 🇮🇩 Tentang Proyek ini (Karya Anak Bangsa)
 
-*   ✨ **Experience**: Creating bugs and fixing them since [Isi Tahun Kamu Mulai][cite: 2].
-*   🤖 **Bot Architect**: Specializing in highly interactive Discord bots using **aoi.js** and **Node.js**.
-*   ☁️ **Infrastructure & Databases**: Managing VPS, Cloudflare, and databases like **MongoDB**, **MySQL**, and **Oracle**[cite: 2].
-*   🖥️ **Systems**: Crafting **AGPL-3.0** auto-installers for VPS, Game Panels, and Linux environments[cite: 2].
-*   📚 **Current Focus**: Mastering **Java Backend** and Cloud Native technologies[cite: 2].
-*   🎯 **Goals**: Empowering the open-source community with high-quality tools[cite: 2].
+**Will Done Project** adalah sebuah wadah inisiatif independen yang berfokus pada pengembangan perangkat lunak tingkat rendah (*low-level system*) hingga infrastruktur data yang **serba Indonesia**. 
+
+Mulai dari **Database Engine** (seperti MySQL), hingga berbagai *core library*—semua dirancang dan dibangun secara berdikari dengan semangat kebanggaan Nusantara. Kami percaya bahwa anak bangsa mampu menciptakan teknologi inti yang independen, tangguh, dan berdaya saing tinggi.
 
 ---
 
-### ⚡ I Code With
+### 🌲 🌊 Filosofi & Nuansa
 
-#### 📜 Scripting & Languages
-<div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="35" alt="python" />
-  <img src="https://cdn.simpleicons.org/openjdk/white" height="35" alt="java" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="35" alt="php" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="35" alt="lua" />
-</div>
-
-#### 🐳 Infrastructure & Tools
-<div align="left">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="35" alt="cloudflare" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git" />
-</div>
-
-#### 🗄️ Databases & Deployment
-<div align="left">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="35" alt="oracle" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="netlify" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="35" alt="replit" />
-</div>
+Karya ini terinspirasi dari **Keindahan Alam Nusantara**:
+- 🟢 **Hijau (Forest & Earth):** Melambangkan pertumbuhan, ketangguhan, dan fondasi yang kuat bagaikan akar hutan hujan tropis Indonesia.
+- 🔵 **Biru (Ocean & Sky):** Melambangkan kedalaman logika, ketenangan, serta visi tanpa batas seluas lautan khatulistiwa.
 
 ---
 
-### 📊 GitHub Stats
+### 🏛️ Kisah di Balik Layar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WildanGX&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanGX&layout=compact&theme=tokyonight" alt="Top Langs" />
+- 👤 **Founder & Lead Architect:** **Wildan Erly**
+- 🤖 **Co-Pilot:** AI Systems & Intelligent Agents
+
+> Proyek skala besar ini dirancang dan diarsiteki oleh **seorang diri (Wildan Erly)**, yang bahu-membahu berkolaborasi dengan kecanggihan Artificial Intelligence. Sebuah bukti nyata sinergi antara visi manusia dan akselerasi teknologi modern untuk menghidupkan proyek impian.
+
+---
+
+### 🛠️ Bahasa Pemrograman & Bahasa Sistem
+
+Dalam membangun ekosistem proyek ini, berbagai *stack* dan bahasa pemrograman digunakan sesuai dengan kebutuhan arsitektur:
+
+| Kategori | Bahasa Pemrograman |
+| :--- | :--- |
+| **Low-Level & Hardware** | `C` • `Assembly` |
+| **System & Core Dev** | `Rust` • `C++` |
+| **Enterprise & Application** | `C#` • `Java` |
+| **Web & Ecosystem** | `JavaScript` • `TypeScript` |
+| **Backend & Web Services**| `PHP` |
+| **Scripting & AI Automation**| `Python` |
+
+---
+
+### 📊 Tech Badges
+
+```html
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+```
+
+---
 
 <p align="center">
-  <em>"The best error message is the one that never shows up."</em>
+  <i>"Terus berkarya untuk kemajuan teknologi Indonesia!" 🇮🇩✨</i>
 </p>
